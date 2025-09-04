@@ -1,0 +1,55 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: white;
+    color: #404040;
+    font-size: 11pt;
+    overflow-x: hidden;
+
+
+}
+
+#homeButton {
+    width: 90%;
+    text-align: right;
+}
+
+
+h1 {
+    font-size: 22pt;
+    margin: auto;
+    text-align: center;
+}
+h1,h2,h3 {
+    text-decoration: underline;
+}
+
+h2 {
+    font-size: 18pt;
+    text-align: left;
+}
+a {
+    color: #A4A400;
+}
+
+#attractionImg {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    font-style: italic;
+}
+
+img {
+    width: 100%;
+}
+
+blockquote {
+    font-style: italic;
+    background-color: #FFFFA8;
+}
+
+ul {
+    list-style-image: url(/Images/bulb.png);
+}
